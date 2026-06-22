@@ -28,5 +28,3 @@ It is intended for beginners who want to understand how list-based views work in
 - Xcode 16 or later
 - iOS 13+ (or as configured in the project)
 - Swift 6
-
-## Project Structure
